@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/com_facebook_button_background_color_pressed"></solid>
+    <corners android:radius="10dp" />
+</shape>
